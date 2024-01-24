@@ -1,6 +1,10 @@
 # Blazor Web Starter
 This project serves as a quick start to use when building monolith blazor apps.
 
+Currently this template handles the hosting, startup, and backend setup.
+
+Future version of this template will incorporate more Blazor related design decisions, as well as Authentication examples.
+
 This project assumes:
 - You will deploy the project as a Docker container in production
 - There will be a reverse proxy such as NGINX handling HTTPS termination placed in front of the application
